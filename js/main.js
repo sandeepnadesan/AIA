@@ -141,6 +141,7 @@ jQuery(document).ready(function( $ ) {
     var modal = $(this);
     modal.find('#ticket-type').val(ticketType);
   })  
+  
 
 // custom code
 
